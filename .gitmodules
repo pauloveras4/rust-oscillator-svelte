@@ -1,0 +1,3 @@
+[submodule "rust-generate-wave"]
+	path = rust-generate-wave
+	url = https://github.com/pauloveras4/rust-generate-wave
